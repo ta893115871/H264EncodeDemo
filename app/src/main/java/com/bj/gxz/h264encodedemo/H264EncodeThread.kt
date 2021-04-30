@@ -12,7 +12,7 @@ import kotlin.experimental.and
 
 
 /**
- * Created by guxiuzhong@baidu.com on 2020/12/30.
+ * Created by guxiuzhong on 2020/12/30.
  */
 class H264EncodeThread(private val mediaProjection: MediaProjection) : Thread("encode-h264") {
 
